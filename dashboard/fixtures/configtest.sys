@@ -1,0 +1,14 @@
+T_api_key	x
+T_api_secret	x
+T_api_token	x
+T_api_token_secret	x
+Bdd_host	localhost
+Bdd_login	postgres
+Bdd_secret	mdp
+Bdd	haine_base
+Bdd_table	message
+langue	fr
+nbre_tweet	100
+max_tweet	500000
+rate_limite	450
+interval	900

@@ -1,0 +1,14 @@
+analyseur_amelio/datasets/
+analyseur_amelio/models/
+analyseur_amelio/clusters/
+analyseur_amelio/datasets/*
+analyseur_amelio/models/*
+analyseur_amelio/clusters/*
+scraper/log/*
+*/__pycache__/
+*/__pycache__/*
+*.pyc
+config
+keywords
+*~
+kw_hate.txt
